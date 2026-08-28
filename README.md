@@ -1,9 +1,9 @@
-### Hi there 👋, I'm Mao Sokchea
+Mao Sokchea
 
-- 💻 I'm a student and backend developer.
-- 🚀 Passionate about building web applications, databases, and automation tools.
+- I'm a student and backend developer.
+- Passionate about building web applications, databases, and automation tools.
 
-### 🛠️ Languages and Tools:
+Languages and Tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
